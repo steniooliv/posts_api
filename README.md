@@ -16,13 +16,13 @@ To run this project you must have an environment configured and enabled to run F
 ## Using this repository
 - In your preferred terminal, clone the repository:
     
-```https://github.com/steniooliv/payflow_nlw.git```
+```https://github.com/steniooliv/posts_api.git```
 
 - Running the application:
     
 ```
 # After the clone, enter the project folder
-cd payflow_nlw
+cd posts_api
 
 # Install all dependencies
 flutter pub get
